@@ -1,143 +1,160 @@
 [[Wigxjpf]]
 arch = "aarch64"
-git-tree-sha1 = "dd20f0a5dbcff28ddceafb0313a94e2e377bcd2f"
+git-tree-sha1 = "0b616cdb7c5789792887a6149871d05362459701"
 os = "macos"
 
     [[Wigxjpf.download]]
-    sha256 = "35504e2167213919d2153053881ba615908f183fa729c286a540179483092aa6"
-    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.11.0+0/Wigxjpf.v1.11.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "47c66b48e4bbec529752046be4cac7aa281d745c57a9060f50ec41684a6d5f35"
+    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.13.0+0/Wigxjpf.v1.13.0.aarch64-apple-darwin.tar.gz"
 [[Wigxjpf]]
 arch = "aarch64"
-git-tree-sha1 = "8bbcbf87cb3ff67fffbe87965d38af32f2a53e1b"
+git-tree-sha1 = "ca84c6e363a04dcb409cf4dc9906da45afe29233"
 libc = "glibc"
 os = "linux"
 
     [[Wigxjpf.download]]
-    sha256 = "b8822c8e634ca4f52e2ac48996cdc12b83d997aca1935e6733c6284eb8ed67df"
-    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.11.0+0/Wigxjpf.v1.11.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "06ea23d5e4ae3725dc9970999091cd28dcdd98681a804ef630810f56d6c8ea7b"
+    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.13.0+0/Wigxjpf.v1.13.0.aarch64-linux-gnu.tar.gz"
 [[Wigxjpf]]
 arch = "aarch64"
-git-tree-sha1 = "46e7b0c996150e25b6dbf1b0fe062a5fb1189764"
+git-tree-sha1 = "5506657b54d0df408cb258c754d9785c96eff929"
 libc = "musl"
 os = "linux"
 
     [[Wigxjpf.download]]
-    sha256 = "8f18c511f8d8b969dcb6fdd16f00b9c870ce53222814bd15d235073ccbff3ef1"
-    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.11.0+0/Wigxjpf.v1.11.0.aarch64-linux-musl.tar.gz"
+    sha256 = "df45c884694b073c3fc86b5d012e291ee84e4253de6603824c2d41d48a698700"
+    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.13.0+0/Wigxjpf.v1.13.0.aarch64-linux-musl.tar.gz"
 [[Wigxjpf]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "14f67e5afb59f7793e1e1ce312b25367dec9bca8"
-libc = "glibc"
-os = "linux"
-
-    [[Wigxjpf.download]]
-    sha256 = "e2a84d8b171c41f28ad1e62d97588045d88fa4dd07f2dcd06330f60ff95b9132"
-    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.11.0+0/Wigxjpf.v1.11.0.armv6l-linux-gnueabihf.tar.gz"
-[[Wigxjpf]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "fb03524dd8c103dc3938d688cb7f7f5b7de62791"
-libc = "musl"
-os = "linux"
-
-    [[Wigxjpf.download]]
-    sha256 = "d6080218c2ae433b9b2e0624cf62680aab6383a26b6da30183e19990adffba98"
-    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.11.0+0/Wigxjpf.v1.11.0.armv6l-linux-musleabihf.tar.gz"
-[[Wigxjpf]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "30a9cf883cf81efd97a3471e22fc0d3aabaf0e68"
-libc = "glibc"
-os = "linux"
-
-    [[Wigxjpf.download]]
-    sha256 = "5061bd851efa551995a034f627dc102a5df52bb2334d4f7ee64125a29ffd8d61"
-    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.11.0+0/Wigxjpf.v1.11.0.armv7l-linux-gnueabihf.tar.gz"
-[[Wigxjpf]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "a2aae50494ac51218d36bb9aef79ffa9af02f36f"
-libc = "musl"
-os = "linux"
-
-    [[Wigxjpf.download]]
-    sha256 = "1e0ba03b4aa4e5ac8b059e86b90772e4b3a971e9b532ec1ea1c53f9177b08363"
-    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.11.0+0/Wigxjpf.v1.11.0.armv7l-linux-musleabihf.tar.gz"
-[[Wigxjpf]]
-arch = "i686"
-git-tree-sha1 = "a5933a7bc3ce442fe286d680b0900dda673caba6"
-libc = "glibc"
-os = "linux"
-
-    [[Wigxjpf.download]]
-    sha256 = "92d5a168bfcf762dc1a2719af2d53d9b61472082b510292b3113da577b1f9911"
-    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.11.0+0/Wigxjpf.v1.11.0.i686-linux-gnu.tar.gz"
-[[Wigxjpf]]
-arch = "i686"
-git-tree-sha1 = "e49306a8233688d46604a3e316ebd6650bced9e8"
-libc = "musl"
-os = "linux"
-
-    [[Wigxjpf.download]]
-    sha256 = "09dd90d5847b5ab96063154a8c50fc681e61be652c755774fb6438bd1cc94f2a"
-    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.11.0+0/Wigxjpf.v1.11.0.i686-linux-musl.tar.gz"
-[[Wigxjpf]]
-arch = "i686"
-git-tree-sha1 = "44aa1fe843b29308c7c4a1a4deed2d927ecbbabc"
-os = "windows"
-
-    [[Wigxjpf.download]]
-    sha256 = "e416e4f0f247e94609e6f7d2048384c7f1262c8132f0ec471031bc8fa45b71f2"
-    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.11.0+0/Wigxjpf.v1.11.0.i686-w64-mingw32.tar.gz"
-[[Wigxjpf]]
-arch = "powerpc64le"
-git-tree-sha1 = "cf65f0466eef1a4f112b3cefb010feeb704d2aca"
-libc = "glibc"
-os = "linux"
-
-    [[Wigxjpf.download]]
-    sha256 = "3a94d003d8d086d39a34dda889eb70d41435aae5bcd888208ce3f4a7d41da7b7"
-    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.11.0+0/Wigxjpf.v1.11.0.powerpc64le-linux-gnu.tar.gz"
-[[Wigxjpf]]
-arch = "x86_64"
-git-tree-sha1 = "bc133f2033978dff483939fdd8e44bbdd2d47687"
-os = "macos"
-
-    [[Wigxjpf.download]]
-    sha256 = "af8beb4371d814c9d166ad8eb09e81d04410cb92e8d4b147ac97e741cc722623"
-    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.11.0+0/Wigxjpf.v1.11.0.x86_64-apple-darwin.tar.gz"
-[[Wigxjpf]]
-arch = "x86_64"
-git-tree-sha1 = "8f374f6d914bf3f245117437ef94fda6016eb584"
-libc = "glibc"
-os = "linux"
-
-    [[Wigxjpf.download]]
-    sha256 = "67684e057bb27d5f404bc4cccfc774eefb4476f96aafe62b1c2f1316d41f0e98"
-    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.11.0+0/Wigxjpf.v1.11.0.x86_64-linux-gnu.tar.gz"
-[[Wigxjpf]]
-arch = "x86_64"
-git-tree-sha1 = "e5d785695ddbc5816e53acdeb94440abb3d141d4"
-libc = "musl"
-os = "linux"
-
-    [[Wigxjpf.download]]
-    sha256 = "f500bc2ded272ae67c806792f35b6971275c0c72df900cde356ceafa564796c1"
-    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.11.0+0/Wigxjpf.v1.11.0.x86_64-linux-musl.tar.gz"
-[[Wigxjpf]]
-arch = "x86_64"
-git-tree-sha1 = "4c78da55eeb1dc3c397a3752cf1b5b606305f337"
+arch = "aarch64"
+git-tree-sha1 = "f65730160253648669aa4fec749b00efb39e889f"
 os = "freebsd"
 
     [[Wigxjpf.download]]
-    sha256 = "de6abccc6d4cdb224a57d587895c762e876608fe53f3157b4d920c6675ff180e"
-    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.11.0+0/Wigxjpf.v1.11.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "f8d169edc241aaccbbd1cef42a0580e27e780ea465a3d608b175a9c9e21dda64"
+    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.13.0+0/Wigxjpf.v1.13.0.aarch64-unknown-freebsd.tar.gz"
 [[Wigxjpf]]
-arch = "x86_64"
-git-tree-sha1 = "26dd1184bf6d0f3177e9c807e600cb39c0315aa6"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9402e0c687aa60e585e127bac8b48cec500149a9"
+libc = "glibc"
+os = "linux"
+
+    [[Wigxjpf.download]]
+    sha256 = "900adc628ea3c2da2cca9c2df81e2f0cc7b793672ac48a6dc3b540b6603da630"
+    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.13.0+0/Wigxjpf.v1.13.0.armv6l-linux-gnueabihf.tar.gz"
+[[Wigxjpf]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "026390fc068a08e662be16451091e55cf158547a"
+libc = "musl"
+os = "linux"
+
+    [[Wigxjpf.download]]
+    sha256 = "49e23cfa7602bf1661a617d8838d78f665d240884c6cdc56d45b82eb2f5ae3d1"
+    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.13.0+0/Wigxjpf.v1.13.0.armv6l-linux-musleabihf.tar.gz"
+[[Wigxjpf]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "285e6e453a8f4b71ffc7bee211e2cb0b0144691b"
+libc = "glibc"
+os = "linux"
+
+    [[Wigxjpf.download]]
+    sha256 = "9b2113740f1736c788250a40094a69c4286f98ed3e96b0f2ec00a3bef9b65d4c"
+    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.13.0+0/Wigxjpf.v1.13.0.armv7l-linux-gnueabihf.tar.gz"
+[[Wigxjpf]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a01161ec41694f77629da39813bd6e2194ae226c"
+libc = "musl"
+os = "linux"
+
+    [[Wigxjpf.download]]
+    sha256 = "0d5cbef99f632614876bdbd3277949157d11f61ca48ef1cfa05fb1716205f347"
+    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.13.0+0/Wigxjpf.v1.13.0.armv7l-linux-musleabihf.tar.gz"
+[[Wigxjpf]]
+arch = "i686"
+git-tree-sha1 = "b4b2488d4298fc11ce021a380f95b3f67e401725"
+libc = "glibc"
+os = "linux"
+
+    [[Wigxjpf.download]]
+    sha256 = "2ccb7b2cee3b929ce24fb1a45d12c0767808af2b1e8a677bbcc78b3ef89c24e8"
+    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.13.0+0/Wigxjpf.v1.13.0.i686-linux-gnu.tar.gz"
+[[Wigxjpf]]
+arch = "i686"
+git-tree-sha1 = "0a4cb4bda634351a2e7c118609bdce289254f8e8"
+libc = "musl"
+os = "linux"
+
+    [[Wigxjpf.download]]
+    sha256 = "a2fefac02b209438de08813e5cc8f5d7ecd27a87e4aabf657e8f8174ff6ebc5b"
+    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.13.0+0/Wigxjpf.v1.13.0.i686-linux-musl.tar.gz"
+[[Wigxjpf]]
+arch = "i686"
+git-tree-sha1 = "d3e5c61ff72593432cee8a3065861661373d05e4"
 os = "windows"
 
     [[Wigxjpf.download]]
-    sha256 = "7534b0bff4c5ab73be70ea95f21fac16a5fa7168623d252e6fc4650fcb28e629"
-    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.11.0+0/Wigxjpf.v1.11.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "3d2c6d83e6a24ea351d5f4cc96f37e34b8235aad4d8417fe8af6d97361a3a8be"
+    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.13.0+0/Wigxjpf.v1.13.0.i686-w64-mingw32.tar.gz"
+[[Wigxjpf]]
+arch = "powerpc64le"
+git-tree-sha1 = "8296517496048d51f4d19561e858917a0310ac4d"
+libc = "glibc"
+os = "linux"
+
+    [[Wigxjpf.download]]
+    sha256 = "061c9b98cb4a0412cd193d11ca5d2324ee3279d77af0f8ecd5a5c59cd0e15a9a"
+    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.13.0+0/Wigxjpf.v1.13.0.powerpc64le-linux-gnu.tar.gz"
+[[Wigxjpf]]
+arch = "riscv64"
+git-tree-sha1 = "1646002343207468f7bad16d1ca59834a0331721"
+libc = "glibc"
+os = "linux"
+
+    [[Wigxjpf.download]]
+    sha256 = "91252e027352120a5ef7004a54a955e344a1a669470f1e4ae8f9b2ec74a4aec7"
+    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.13.0+0/Wigxjpf.v1.13.0.riscv64-linux-gnu.tar.gz"
+[[Wigxjpf]]
+arch = "x86_64"
+git-tree-sha1 = "111f8c7e5255c404c6e2742c47f346e0b56f0b90"
+os = "macos"
+
+    [[Wigxjpf.download]]
+    sha256 = "f6f60e6ced7cbfcbf95ac12783f452a6d455c9b3cab967ce3aff3c1770899557"
+    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.13.0+0/Wigxjpf.v1.13.0.x86_64-apple-darwin.tar.gz"
+[[Wigxjpf]]
+arch = "x86_64"
+git-tree-sha1 = "f5b83120bd1fdd6aa83143f11636598f7d564964"
+libc = "glibc"
+os = "linux"
+
+    [[Wigxjpf.download]]
+    sha256 = "a6f9ddb01196476ca6bab4f7ae955fa86c85db564477ee726d816c4f8f782d0e"
+    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.13.0+0/Wigxjpf.v1.13.0.x86_64-linux-gnu.tar.gz"
+[[Wigxjpf]]
+arch = "x86_64"
+git-tree-sha1 = "a033a0e0f9b0dc9faa2b07794bb644ae787282ee"
+libc = "musl"
+os = "linux"
+
+    [[Wigxjpf.download]]
+    sha256 = "ab5fe5b98916d7c48582c694f5a17185d4f6b2085e3138cd92e3fd0ca32af434"
+    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.13.0+0/Wigxjpf.v1.13.0.x86_64-linux-musl.tar.gz"
+[[Wigxjpf]]
+arch = "x86_64"
+git-tree-sha1 = "f728eb8fb94a2eee7d417e40372ff08141dcdf95"
+os = "freebsd"
+
+    [[Wigxjpf.download]]
+    sha256 = "8b465f7f8e62f42886ffdd59d41715600594517b2732e1cf53ebe775947808ff"
+    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.13.0+0/Wigxjpf.v1.13.0.x86_64-unknown-freebsd.tar.gz"
+[[Wigxjpf]]
+arch = "x86_64"
+git-tree-sha1 = "94f105222b11051ad89df210b483debb6abbc115"
+os = "windows"
+
+    [[Wigxjpf.download]]
+    sha256 = "71951d79e8fe57e06b628b7f367008e65ee795f618ccc9a0e05f4ae7e7178cf9"
+    url = "https://github.com/JuliaBinaryWrappers/Wigxjpf_jll.jl/releases/download/Wigxjpf-v1.13.0+0/Wigxjpf.v1.13.0.x86_64-w64-mingw32.tar.gz"
